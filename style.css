@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Pangolin&display=swap');
+
+body{  
+    text-align: center; 
+    font-family: 'Pangolin';
+    background-color:lightsteelblue;
+}
+
+div{
+    margin-left: 325px;
+    margin-right: 300px; 
+    border-radius: 20px;
+    border: 5px solid orangered;
+    width: 950px;
+    background-color: rgb(255, 255, 205);
+}
+
+#section1{
+    margin-left: 400px;
+    margin-right: 450px; 
+    border-radius: 20px;
+    border: 5px solid blue;
+    width: 800px;
+    height: 400px;
+    text-align: center;
+    padding-left: 3px;
+}
+
+#section2{
+    margin-left: 400px;
+    margin-right: 450px; 
+    border-radius: 20px;
+    border: 5px solid blue;
+    width: 800px;
+    height: 200px;
+    text-align: center;
+    padding-left: 3px;
+}
+
+#branch{
+    text-align: center;
+    height: 50px;
+    width: 235px;
+}
+
+#section3{
+    margin-left: 400px;
+    margin-right: 450px; 
+    border-radius: 20px;
+    border: 5px solid blue;
+    width: 800px;
+    height: 235px;
+    text-align: center;
+    padding-left: 3px;
+}
+
+#section4{
+    margin-left: 400px;
+    margin-right: 450px; 
+    border-radius: 20px;
+    border: 5px solid blue;
+    width: 800px;
+    height: 370px;
+    text-align: center;
+    padding-left: 3px;
+}
+
+#section5{
+    margin-left: 400px;
+    margin-right: 450px; 
+    border-radius: 20px;
+    border: 5px solid blue;
+    width: 800px;
+    height: 205px;
+    text-align: center;
+    padding-left: 3px;
+}
+
+#section6{
+    margin-left: 400px;
+    margin-right: 450px; 
+    border-radius: 20px;
+    border: 5px solid blue;
+    width: 800px;
+    height: 145px;
+    text-align: center;
+    padding-left: 3px;
+}
+
+#wah{
+    width: 600px; height: 50px;
+}
+
+#section7{
+    margin-left: 400px;
+    margin-right: 450px; 
+    border-radius: 20px;
+    border: 5px solid blue;
+    width: 800px;
+    height: 240px;
+    text-align: center;
+    padding-left: 3px;  
+}
+
+#section9{
+    margin-left: 400px;
+    margin-right: 450px; 
+    border-radius: 20px;
+    border: 5px solid blue;
+    width: 800px;
+    height: 235px;
+    text-align: center;
+    padding-left: 3px; 
+}
+
+#section8{
+    margin-left: 400px;
+    margin-right: 450px; 
+    border-radius: 20px;
+    border: 5px solid blue;
+    width: 800px;
+    height: 180px;
+    text-align: center;
+    padding-left: 3px; 
+}
+
+#section10{
+    margin-left: 400px;
+    margin-right: 450px; 
+    border-radius: 20px;
+    border: 5px solid blue;
+    width: 800px;
+    height: 235px;
+    text-align: center;
+    padding-left: 3px;
+}
+
+#tf{
+    font-family: 'Pacifico';
+}
+
+#untitled{
+    width: 950px;
+    border-radius: 15px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+#ws{
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    background-color: red;
+}
+
+#cs{
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    background-color: greenyellow;
+}
